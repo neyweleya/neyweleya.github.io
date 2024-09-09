@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://neyweleya.github.io/sitemap.html.gz
+Sitemap: https://neyweleya.github.io/app/sitemap.html.gz
+Sitemap: https://neyweleya.github.io/assets/sitemap.html.gz
+Sitemap: https://neyweleya.github.io/css/sitemap.html.gz
+Sitemap: https://neyweleya.github.io/includes/sitemap.html.gz
+Sitemap: https://neyweleya.github.io/item/sitemap.html.gz
+Sitemap: https://neyweleya.github.io/src/sitemap.html.gz
